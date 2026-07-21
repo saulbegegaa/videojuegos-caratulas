@@ -1,3 +1,3 @@
-# Carátulas de videojuegos
+# videojuegos-caratulas
 
-Carátulas verificadas mediante ScreenScraper para la biblioteca personal de videojuegos en Notion.
+Carátulas adaptadas para la biblioteca de videojuegos en Notion.
